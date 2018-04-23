@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1524486534 source:c:\users\capacita_mecon\desktop\test\estructurasyrelacionesenc\gerflix2.0\serie.c
+
+1524486534 source:c:\users\capacita_mecon\desktop\test\estructurasyrelacionesenc\gerflix2.0\usuario.c
+
+1524486534 source:c:\users\capacita_mecon\desktop\test\estructurasyrelacionesenc\gerflix2.0\usuarioserie.c
+
+1524487434 source:c:\users\capacita_mecon\desktop\test\estructurasyrelacionesenc\gerflix2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+

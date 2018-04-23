@@ -9,6 +9,6 @@
 */
 int main()
 {
-    printf("Hello world!\n");
+    printf("DE CICCO\n");
     return 0;
 }
